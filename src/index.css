@@ -5,4 +5,12 @@
 h1 {
   text-align: center;
   padding: 0.7rem;
+  color:rgb(245, 213, 170)
+}
+html, th {
+  color: white !important;
+}
+
+td {
+  color: rgb(209, 209, 209);
 }
